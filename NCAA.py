@@ -125,7 +125,7 @@ scatter_plot = (
         ],
     )
     .properties(
-        title="Does Elite Shooting Guarantee a Championship?",
+        title="Adjusted Offensive vs. Defensive Efficiency: Identifying Elite Teams",
         width=600,
         height=500,
     )
@@ -352,7 +352,7 @@ st.write("---")
 st.write("##  Summary: The Championship Formula Proved")
 
 st.markdown("""
-Based on the historical performance of tournament teams in this dataset, the data clearly proves that reaching the **Champions** tier is not a random occurrence. It requires meeting specific statistical benchmarks:
+Based on the historical performance of tournament teams in this dataset, the data suggests that reaching the **Champions** tier is not a random occurrence. It requires meeting specific statistical benchmarks:
 
 1. **The Elite Efficiency Threshold:** Our primary scatter plot shows a dense cluster of champions in the **Elite Zone** (ADJOE > 115 and ADJDE < 95). Teams that fall outside of this zone might string together a couple of tournament wins, but they almost never survive to cut down the nets.
    
