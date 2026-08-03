@@ -358,5 +358,4 @@ Based on the historical performance of tournament teams in this dataset, the dat
    
 2. **Shooting Peak Efficiency:** As seen in the *Shooting Efficiency* chart, offensive execution scales upward with every passing weekend. Championship teams separate themselves by maintaining an average **Effective Field Goal Percentage (EFG_O)** near or above **54%** against elite tournament defenses.
 
-3. **Defensive Glass Lockdown Is Mandatory:** The *Rebounding Dominance* charts reveal a crucial asymmetric truth. While offensive rebounding remains relatively flat across rounds, **Defensive Rebounding Allowed (DRB)** steadily shrinks for champions. Winning the tournament requires completely denying opponents second-chance opportunities, locking down defensive boards to hold opponents near or below a tight **28% to 29%** offensive rebound rate.
-""")
+3. Offensive Glass Dominance Fuels Championship Runs: The Rebounding Dominance charts reveal a clear trend: offensive rebounding impact escalates the deeper a team advances. Champions lead the field by securing an Offensive Rebound Rate near 35%, up from roughly **32%** in the Sweet 16. Meanwhile, top teams maintain a strong Defensive Rebound Rate around 28% to 29%, ensuring they control both ends of the glass rather than letting second-chance performance stall out.""")
